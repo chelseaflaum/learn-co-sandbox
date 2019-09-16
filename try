@@ -1,0 +1,7 @@
+input = gets
+
+puts "you typed #{input}"
+
+whatever_you_typed = gets
+
+puts input
